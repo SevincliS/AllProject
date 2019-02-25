@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab227da4-69b5-4007-9600-9453048bbb0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/imports/ui/Admin.jsx" afterDir="false" />
-    </list>
+    <list default="true" id="ab227da4-69b5-4007-9600-9453048bbb0f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -175,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -193,6 +191,11 @@
             <path>
               <item name="exp" type="b2602c69:ProjectViewProjectNode" />
               <item name="exp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exp" type="462c0819:PsiDirectoryNode" />
+              <item name=".meteor" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -249,12 +252,12 @@
       <workItem from="1551080426551" duration="1578000" />
       <workItem from="1551089408651" duration="4189000" />
       <workItem from="1551096790866" duration="600000" />
-      <workItem from="1551113314224" duration="3093000" />
+      <workItem from="1551113314224" duration="3371000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52210000" />
+    <option name="totallyTimeSpent" value="52488000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -266,8 +269,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="0" width="1926" height="1050" extended-state="6" />
-    <editor active="true" />
+    <frame x="-3" y="0" width="1926" height="1050" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24934107" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
